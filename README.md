@@ -7,7 +7,7 @@ The personality test was an exercise in *App Development with Swift* offered on 
 The app's home screen opens up to the questionnaire, where there are different question screens for different answer types. After completing the questionnaire, you will be provided with your 'Pokemon character'.
 
 ### Home Screen
-![home screen](https://farm1.staticflickr.com/879/39273190430_c707c9f704_b.jpg)
+![home screen](https://farm1.staticflickr.com/879/39273190430_c707c9f704_b.jpg width="100 height="200")
 
 ### Question Screens
 ![question screena](https://farm1.staticflickr.com/820/39273188950_07142afd95_b.jpg)
