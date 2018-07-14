@@ -1,4 +1,4 @@
-# PokemonPlayer
+# Pokemon Player
 Pokemon Player is a personality test. It gives a questionnaire, complies the results, then provides their Pokemon Player.
 
 ## Project Details
